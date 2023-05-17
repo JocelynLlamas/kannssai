@@ -1,0 +1,14 @@
+.color1 {color: #120909;}
+.color2 {color: #332743;}
+.color3 {color: #6f5c8b;}
+.color4 {color: #b198de;}
+.color5 {color: #f3cfed;}
+
+.navBar{
+    background-color: #6f5c8b !important;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}

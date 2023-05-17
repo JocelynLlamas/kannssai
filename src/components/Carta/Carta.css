@@ -1,0 +1,12 @@
+.Carta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
+    color: #120909;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+}
