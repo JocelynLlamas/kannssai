@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kannssai/build/static/css/main.2fb81f35.css",
-    "main.js": "/kannssai/build/static/js/main.fcb9dcba.js",
+    "main.js": "/kannssai/build/static/js/main.ce7e74ef.js",
     "static/js/787.770a76c2.chunk.js": "/kannssai/build/static/js/787.770a76c2.chunk.js",
     "static/media/video.mp4": "/kannssai/build/static/media/video.e1238bdd768e263bf37b.mp4",
     "static/media/mananitas.mp3": "/kannssai/build/static/media/mananitas.790cf8c2c1153fdee9e6.mp3",
@@ -20,11 +20,11 @@
     "static/media/logo.svg": "/kannssai/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kannssai/build/index.html",
     "main.2fb81f35.css.map": "/kannssai/build/static/css/main.2fb81f35.css.map",
-    "main.fcb9dcba.js.map": "/kannssai/build/static/js/main.fcb9dcba.js.map",
+    "main.ce7e74ef.js.map": "/kannssai/build/static/js/main.ce7e74ef.js.map",
     "787.770a76c2.chunk.js.map": "/kannssai/build/static/js/787.770a76c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fb81f35.css",
-    "static/js/main.fcb9dcba.js"
+    "static/js/main.ce7e74ef.js"
   ]
 }
