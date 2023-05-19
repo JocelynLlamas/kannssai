@@ -10,7 +10,7 @@ export const Video = () => {
     return (
         <section className="Video" id="Video">
             <Box sx={{ maxWidth: "50%", minWidth:'50%', flexGrow: 1, display: 'flex', justifyContent:'center', alignItems:'center' }} >
-                <video src={videoC} autoPlay loop controls></video>
+                <video src={videoC} autoPlay loop controls style={{width:'50%'}} ></video>
             </Box>
         </section>
     );
