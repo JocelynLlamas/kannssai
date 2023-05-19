@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/kannssai/build/static/css/main.2fb81f35.css",
+    "main.js": "/kannssai/build/static/js/main.7af30790.js",
+    "static/js/787.770a76c2.chunk.js": "/kannssai/build/static/js/787.770a76c2.chunk.js",
+    "static/media/video.mp4": "/kannssai/build/static/media/video.e1238bdd768e263bf37b.mp4",
+    "static/media/mananitas.mp3": "/kannssai/build/static/media/mananitas.790cf8c2c1153fdee9e6.mp3",
+    "static/media/filtro.jpg": "/kannssai/build/static/media/filtro.433d7079d47a8c5d74be.jpg",
+    "static/media/cielo.jpeg": "/kannssai/build/static/media/cielo.d07a05bb2b86e84e7c23.jpeg",
+    "static/media/massi.jpg": "/kannssai/build/static/media/massi.acc7d0763912728ccbea.jpg",
+    "static/media/alaska.jpg": "/kannssai/build/static/media/alaska.17aa68b01dd0bc3be03d.jpg",
+    "static/media/profile.jpg": "/kannssai/build/static/media/profile.34c0a2b428fd243bbddb.jpg",
+    "static/media/muerte.jpg": "/kannssai/build/static/media/muerte.19d122a48eb6634f4c65.jpg",
+    "static/media/uni.jpg": "/kannssai/build/static/media/uni.cc896e0d84755180e44b.jpg",
+    "static/media/parque.jpg": "/kannssai/build/static/media/parque.6b7d92c1868d619a29b4.jpg",
+    "static/media/calle.jpg": "/kannssai/build/static/media/calle.31ce8db448fa356a75c9.jpg",
+    "static/media/elevador.jpg": "/kannssai/build/static/media/elevador.d5e71f2689f144cbaf74.jpg",
+    "static/media/asada.jpg": "/kannssai/build/static/media/asada.ebb468d7631a6ac94d74.jpg",
+    "static/media/cover1.jpeg": "/kannssai/build/static/media/cover1.6f79cab3ffe58f41163d.jpeg",
+    "static/media/logo.svg": "/kannssai/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kannssai/build/index.html",
+    "main.2fb81f35.css.map": "/kannssai/build/static/css/main.2fb81f35.css.map",
+    "main.7af30790.js.map": "/kannssai/build/static/js/main.7af30790.js.map",
+    "787.770a76c2.chunk.js.map": "/kannssai/build/static/js/787.770a76c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb81f35.css",
+    "static/js/main.7af30790.js"
+  ]
+}
